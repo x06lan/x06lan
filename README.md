@@ -7,5 +7,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x06lan&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=x06lan&theme=monokai)
 
 
-![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff) ![](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+<!-- ![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff) 
+![](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff) -->
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![](https://img.shields.io/badge/os-window-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
